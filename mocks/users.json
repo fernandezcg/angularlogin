@@ -3,27 +3,32 @@
     {
       "id": 1,
       "name": "cesar",
-      "online": true
+      "online": true,
+      "password": "uno"
     },
     {
       "id": 2,
       "name": "guille",
-      "online": true
+      "online": true,
+      "password": "uno"
     },
     {
       "id": 3,
       "name": "jose",
-      "online": true
+      "online": true,
+      "password": "uno"
     },
     {
       "id": 4,
       "name": "astu",
-      "online": true
+      "online": true,
+      "password": "uno"
     },
     {
+      "id": 5,
       "name": "postman",
       "online": true,
-      "id": 5
+      "password": "uno"
     }
   ]
 }
