@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "cesar",
+      "online": true
+    },
+    {
+      "id": 2,
+      "name": "guille",
+      "online": true
+    },
+    {
+      "id": 3,
+      "name": "jose",
+      "online": true
+    },
+    {
+      "id": 4,
+      "name": "astu",
+      "online": true
+    },
+    {
+      "name": "postman",
+      "online": true,
+      "id": 5
+    }
+  ]
+}
